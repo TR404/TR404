@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mohittr1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mohittr1?logo=twitter&style=for-the-badge" alt="https://twitter.com/mohittr1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohittr1" target="blank"><img src="https://img.shields.io/twitter/follow/mohittr1?logo=twitter&style=for-the-badge" alt="mohittr1" /></a> </p>
 
 - 🔭 I’m currently working on Cyntralabs Tech **Decathlon**
 
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mohittr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mohittr1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/trshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/trshivam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tmkmohit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tmkmohit/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tr404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tr404/" height="30" width="40" /></a>
+<a href="https://twitter.com/mohittr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohittr1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trshivam" height="30" width="40" /></a>
+<a href="https://fb.com/tmkmohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tmkmohit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tr404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tr404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
