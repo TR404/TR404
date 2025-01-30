@@ -1,23 +1,60 @@
 <h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/mohittr1" target="blank"><img src="https://img.shields.io/twitter/follow/mohittr1?logo=twitter&style=for-the-badge" alt="mohittr1" /></a> </p>
-
-- 🔭 I’m currently working on Cyntralabs Tech **Decathlon**
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence**
-
-- 📫 How to reach me **shivamtr9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohittr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohittr1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trshivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trshivam" height="30" width="40" /></a>
-<a href="https://fb.com/tmkmohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tmkmohit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tr404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tr404" height="30" width="40" /></a>
+<p align="center">
+<a href="https://twitter.com/mohittr1" target="blank"><img src="https://img.shields.io/twitter/follow/mohittr1?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+<a href="https://linkedin.com/in/trshivam" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.leetcode.com/tr404" target="blank"><img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr404&show_icons=true&locale=en&layout=compact" alt="tr404" /></p>
+<h3 align="center">🚀 Professional Skills & Technologies</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
+</p>
+
+---
+
+<h3 align="center">🏆 Achievements</h3>
+<ul>
+<li>Developed and implemented <b>Breeze POS system</b> integrating AI for food ordering.</li>
+<li>Optimized query responses and customer experience using Machine Learning algorithms.</li>
+<li>Built a scalable <b>Employee Monitoring System</b> with real-time activity tracking.</li>
+<li>Led the backend development for a live <b>pick & drop courier service</b> with PWA support.</li>
+<li>Integrated various APIs, including Payment Gateway, Map API, WhatsApp API, and Cloudflare security.</li>
+</ul>
+
+---
+
+<h3 align="center">📂 Featured Projects</h3>
+
+### **AI-Based Price, Food Image Generation & Product Recommendations**
+- Developed an AI system for **pricing optimization, food image generation, and personalized recommendations**.
+- Implemented **Machine Learning models and NLP** to enhance pricing strategies and recommendations.
+- Deployed on **AWS Cloud with Amazon S3 for data storage**.
+
+### **Decathlon Feedback System**
+- Created a feedback system using **Django, FastAPI, and AWS Cloud**.
+- Designed APIs to **calculate shop ratings** based on customer reviews.
+- Automated **data migration** for improved performance and minimal downtime.
+
+### **Employee Monitoring System** *(We360.ai)*
+- Built an employee monitoring platform using **Django, DRF, Keycloak, PostgreSQL, MongoDB**.
+- Implemented **activity tracking, user punch-in/out, and secure authentication**.
+
+### **ELE Delivery Company**
+- Developed a **live tracking courier service** with Django and MySQL.
+- Implemented **REST APIs, multi-threading, and PWA for enhanced performance**.
+
+---
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr404&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
